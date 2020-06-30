@@ -1,0 +1,18 @@
+version: "3"
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    working_dir: /app
+    env_file:
+      - development.env
+    container_name: "csharp-pokemon-service"
+    ports:
+      - "5050:5000"
+      - "5051:5001"
+    volumes:
+      - .:/app
+    expose:
+      - "5000"
+    tty: true

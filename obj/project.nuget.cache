@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ezWQvK2X4R55ZRaTaWqIJoEsEjK7MPQuIrAQUm92ruSql69N2nGI8YAFUHl6b5mR98lySPpZvEafVV1v0G5xXA==",
+  "dgSpecHash": "+N1RUj4bk37678pRKVAOVBEtWQS1oL/VO4QiY+r3RR66UWF4AjRgTQ7lpuQHUh6O8VOS4OsN6uykt4NDzR9K3w==",
   "success": true,
-  "projectFilePath": "/Applications/Documentos/Proyectos/pokemon/csharp-netcore-pokemon-service/csharp-netcore-pokemon-service.csproj",
+  "projectFilePath": "/app/csharp-netcore-pokemon-service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
